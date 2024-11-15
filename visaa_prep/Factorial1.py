@@ -4,3 +4,5 @@ if 1 <= N <= 15:
     for i in range(1, N+1):
         f *= i
     print(f)
+else:
+    print("1")
